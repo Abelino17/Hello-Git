@@ -90,4 +90,17 @@ Esto es un texto referente a una cita que pondremos debajo:
 > Esto es una cita.
 
 Esto es otro texto que no se relaciona con la cita anterior
-> Esto es otra cita
+> Esto es otra cita.
+
+# Lineas divisoras
+Esto es un texto que sera dividido guiones medios.
+
+---
+Esto es otro texto dividido por asteriscos
+
+***
+
+Esto es otro texto dividido por guiones bajos.
+
+___
+
